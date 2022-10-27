@@ -1,0 +1,3 @@
+Pendekatan perdagangan token oleh Tim MuesliSwap membedakan dirinya dari pendekatan perdagangan populer, dengan mempertimbangkan model transaksi Cardano.
+
+Model EUTxO dari blockchain Cardano memungkinkan untuk menggunakan model buku pesanan sebagai pertukaran terdesentralisasi, berbeda dengan model AMM yang digunakan pada blockchain lainnya. MuesliSwap mendukung limit order yang memberikan kontrol penuh pada investasi Anda. Terlebih lagi, protokol inovatif menawarkan kumpulan likuiditas yang menyediakan likuiditas ke buku pesanan sambil membiarkan pengguna memperoleh pendapatan pasif melalui biaya perdagangan dan pertanian hasil.
